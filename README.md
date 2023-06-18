@@ -1,9 +1,9 @@
 
 <p align="center">
-<img src="https://avatars.githubusercontent.com/AlipBot" width="200" height="200"/>
+<img src="https://avatars.githubusercontent.com/razn-id" width="200" height="200"/>
 </p>
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Welcome+To+Rest+Api+AlpisV2+" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Welcome+To+Rest+Api+Razan+" alt="">
 </p>
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-AlipBot-red.svg?style=for-the-badge&logo=github"></a>
