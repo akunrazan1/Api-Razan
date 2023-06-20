@@ -20,9 +20,6 @@
 </p>
 
 
-* # TUTORIAL 📌
-
-
 * ## STEP 1
 Forks Github Ini Klick Di Bawah
 
