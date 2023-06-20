@@ -12,7 +12,7 @@
 <img src="https://avatars.githubusercontent.com/razn-id" width="200" height="200"/>
 </p>
 <p align="center">
- <a href="#"><img title="Baileys Library" src="https://img.shields.io/badge/BAILEYS LIBRARY (UNOFFICIAL)-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="Baileys Library" src="https://img.shields.io/badge/REST API RAZAN (RECODE)-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 <a 
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Razan-green.svg?style=for-the-badge&logo=github"></a>
 </p>
