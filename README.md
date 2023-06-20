@@ -1,3 +1,9 @@
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+
+ > **Warning**: Rest Api Ini Adalah Rest Api Yang DiRecode Dari AlipBot/ApiAlpis, Api Ini Akan Dikembangkan Dan Ditambahkan Fitur Fitur Lainnya.
+ 
+ > **Note**: Kalau Ada Yang Ingin Fork Silahkan Klik Tombol Fork.
+
 
 <p align="center">
 <img src="https://avatars.githubusercontent.com/razn-id" width="200" height="200"/>
