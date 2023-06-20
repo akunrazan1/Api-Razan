@@ -17,9 +17,6 @@
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Razan-green.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Welcome+To+Rest+Api+Razan+" alt="">
-</p>
-<p align="center">
 <a href="https://github.com/razn-id?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/razn-id?color=green&style=flat-square"></a>
 <a href="https://github.com/razn-id/Api-Razan/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/razn-id/Api-Razan?color=white&style=flat-square"></a>
 <a href="https://github.com/razn-id/Api-Razan/network/members"><img title="Forks" src="https://img.shields.io/github/forks/razn-id/Api-Razan?color=yellow&style=flat-square"></a>
